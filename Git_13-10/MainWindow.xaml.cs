@@ -25,6 +25,7 @@ namespace Git_13_10
             InitializeComponent();
         }
 
+        //button per la stampa
         private void btn_Print_Click(object sender, RoutedEventArgs e)
         {
             lbl_Print.Content = "Hello, World!";
